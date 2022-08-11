@@ -4,7 +4,7 @@
 # 参考 / 感谢：https://github.com/lwd-temp/anti-ip-attribution
 
 # ======= 哔哩哔哩 ======= #
-DOMAIN-SUFFIX,biliapi.net       # 哔哩哔哩API域名
+# DOMAIN-SUFFIX,biliapi.net       # 哔哩哔哩API域名
 DOMAIN,api.bilibili.com         # 哔哩哔哩国内网页版API域名 # 网友提供哔哩哔哩IP定位接口
 DOMAIN,api.bilibili.tv          # 哔哩哔哩海外版？
 DOMAIN,app.bilibili.com         # 哔哩哔哩App的API域名
